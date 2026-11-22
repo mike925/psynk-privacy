@@ -15,7 +15,7 @@ Nothing. Psynk has no accounts or sign-in, and we don't run any servers. There's
 Everything you put into Psynk is stored only on your iPhone, in the app's local storage, and protected by iOS file protection. That includes entries, tasks, goals, habits, occasions, summaries, the name you enter during setup, and your settings.
 
 - **Widget:** the Psynk widget reads a small snapshot of upcoming items from storage shared only between the app and its widget, on your device.
-- **Reminders:** reminders are local notifications scheduled on your device. We only ask for notification permission when you set a reminder, and nothing goes through a push server.
+- **Reminders:** Psynk asks for notification permission when you choose a reminder time in the welcome tour, turn reminders on in Settings, or set a reminder on a booked block. Alerts stay on your device. They include a reminder for a booked block at the time you choose, a note after you finish a task, and occasional notes about your goals. Nothing goes through a push server. You can turn these off in Settings.
 - **Preferences:** app settings are stored locally on your device.
 - **No cloud sync:** Psynk doesn't sync your data to iCloud or to any other service.
 
